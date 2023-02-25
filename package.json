@@ -1,0 +1,25 @@
+{
+  "name": "spotifyplaylistdiscord",
+  "version": "1.0.0",
+  "description": "Creates playlist from discord channel messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcortese1/SpotifyPlaylistDiscord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcortese1/SpotifyPlaylistDiscord/issues"
+  },
+  "homepage": "https://github.com/rcortese1/SpotifyPlaylistDiscord#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0"
+  }
+}
